@@ -35,5 +35,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditi-2840&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<h3> ⚙️&nbsp; Leetcode Stats</h3>
+<p align="center">
+<a href="https://leetcode.com/jigyashu2000/" target="_blank">
+<img title="Aditi's LeetCode Stats" alt="Aditi's LeetCode Stats" src="https://leetcard.jacoblin.cool/jigyashu2000?theme=light&font=Noto%20Sans%20Myanmar" />
+</a>
+</p>
 
 
