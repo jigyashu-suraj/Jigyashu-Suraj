@@ -38,7 +38,7 @@
 <h3> ⚙️&nbsp; Leetcode Stats</h3>
 <p align="center">
 <a href="https://leetcode.com/jigyashu2000/" target="_blank">
-<img title="Aditi's LeetCode Stats" alt="Aditi's LeetCode Stats" src="https://leetcard.jacoblin.cool/jigyashu2000?theme=light&font=Noto%20Sans%20Myanmar" />
+<img title="Jigyashu's LeetCode Stats" alt="Aditi's LeetCode Stats" src="https://leetcard.jacoblin.cool/jigyashu2000?theme=light&font=Noto%20Sans%20Myanmar" />
 </a>
 </p>
 
