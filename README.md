@@ -1,3 +1,4 @@
+<img align="center" src="https://raw.githubusercontent.com/jigyashu-suraj/jigyashu-suraj/main/Hi I'm Jigyashu.gif"/></a>
 <h1 align="center">Hi 👋, I'm Jigyashu Suraj</h1>
 <h3 align="center">A passionate Data Science Enthusiasts from India</h3>
 
